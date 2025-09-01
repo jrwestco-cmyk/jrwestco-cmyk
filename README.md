@@ -1,9 +1,10 @@
 ## Hi there 👋
-
+### 
+Jillian Westcott is Coastal Carolina University alumni and earned a Bachelor’s degree in Graphic Design and Sports Marketing. After graduating she got a job working for a NASCAR team in Norh Carolina. She found a way to mash both her love for creating/designing and sports all in one job with a team that she loved. She later went on to work for Flow Automive Companies and now is furthering her education at Arizona State University to earn her Masters Degree in Graphic Information Technology. 
 <!--
 **jrwestco-cmyk/jrwestco-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
